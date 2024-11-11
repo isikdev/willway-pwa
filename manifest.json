@@ -1,5 +1,5 @@
 {
-    "theme_color": "#164c47",
+    "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "icons": [
         {
@@ -21,6 +21,6 @@
     "lang": "ru",
     "name": "WILLWAY - Личный кабинет",
     "short_name": "WILLWAY",
-    "start_url": "https://willway.pro/",
+    "start_url": "/",
     "description": "Личный кабинет сервиса WILLWAY"
 }
