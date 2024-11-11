@@ -21,6 +21,6 @@
     "lang": "ru",
     "name": "WILLWAY - Личный кабинет",
     "short_name": "WILLWAY",
-    "start_url": "/",
+    "start_url": "https://willway.pro/",
     "description": "Личный кабинет сервиса WILLWAY"
 }
